@@ -6,3 +6,18 @@ typescript@^3.9.5:
   version "3.9.5"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.5.tgz#586f0dba300cde8be52dd1ac4f7e1009c1b13f36"
   integrity sha512-hSAifV3k+i6lEoCJ2k6R2Z/rp/H3+8sdmcn5NrS3/3kE7+RyZXm9aqvxWqjEXHAd8b0pShatpcdMTvEdvAJltQ==
+
+typings-package1-issue@0.1.9, typings-package1-issue@^0.1.2:
+  version "0.1.9"
+  resolved "https://registry.yarnpkg.com/typings-package1-issue/-/typings-package1-issue-0.1.9.tgz#6185a255a580d4b267b68f2b67f6b742795f43ac"
+  integrity sha512-2K4F4eU138X0cga1YeMw8UgNrKe1vGFRBHBsh8oVAEpB5UACWc57oFMf3Q6NLtZbfksijtmQeirt4gmuRjl+kw==
+  dependencies:
+    typescript "^3.9.5"
+
+typings-package2-issue@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/typings-package2-issue/-/typings-package2-issue-0.1.0.tgz#48f9708dbe517893f5aa91b128c3cab00f5c4278"
+  integrity sha512-RB82gdcRM90DLJSNArZZfAzXRKqYi8WeCbH1k/9bMiS1WqO7aYDBfLfCXhk1jtiXRTe/B9NvlKSQYWGzwwnUwA==
+  dependencies:
+    typescript "^3.9.5"
+    typings-package1-issue "^0.1.2"
