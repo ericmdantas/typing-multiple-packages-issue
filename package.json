@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "typescript": "^3.9.5",
-    "typings-package1-issue": "0.1.9",
-    "typings-package2-issue": "^0.1.0"
+    "typings-package1-issue": "^0.1.11",
+    "typings-package2-issue": "^0.1.1"
   }
 }
