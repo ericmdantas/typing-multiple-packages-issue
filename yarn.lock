@@ -21,10 +21,10 @@ typings-package1-issue@^0.1.20:
   dependencies:
     typescript "^3.9.5"
 
-typings-package2-issue@^0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/typings-package2-issue/-/typings-package2-issue-0.1.4.tgz#1928c7276c310f9dd592f4d845668e6540d638d5"
-  integrity sha512-4BqJdORRlDGgGSfYgIldkQXDjIW/4wXhYr4LHk/FlcSMbgyg10Sv9/Gb8TZ/qPJbAA72PS6W8iDHhFKVx/zDKg==
+typings-package2-issue@^0.1.5:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/typings-package2-issue/-/typings-package2-issue-0.1.5.tgz#0bc5e8710dbeb979b23ada603c2aca020be76f4c"
+  integrity sha512-QsnaB0lgx4SJBnYoH4mP9LvV61u7KNVqGoIuMDZ4ppza+WeShfYIPzOevBoXTFBg1p5Zj1hkLMqeUS1jMeNFqg==
   dependencies:
     typescript "^3.9.5"
     typings-package1-issue "0.1.13"

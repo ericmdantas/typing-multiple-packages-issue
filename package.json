@@ -11,6 +11,6 @@
   "dependencies": {
     "typescript": "^3.9.5",
     "typings-package1-issue": "^0.1.20",
-    "typings-package2-issue": "^0.1.4"
+    "typings-package2-issue": "^0.1.5"
   }
 }
