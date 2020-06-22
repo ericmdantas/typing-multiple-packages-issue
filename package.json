@@ -1,0 +1,14 @@
+{
+  "name": "typings-multi-package-issue",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "repository": "https://github.com/ericmdantas/typings-multi-package-issue.git",
+  "author": "Eric M. Dantas <ericdantas0@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "rm -rf dist && tsc"
+  },
+  "dependencies": {
+    "typescript": "^3.9.5"
+  }
+}
