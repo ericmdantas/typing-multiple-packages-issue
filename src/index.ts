@@ -1,12 +1,13 @@
-import { ClassFromPackage2, instanceFromPackage2 } from "typings-package2-issue"
-import { MyInterface } from "typings-package1-issue"
+import { ClassFromPackage2 } from "typings-package2-issue"
+import { MyInterface, ClassFromPackage1 } from "typings-package1-issue"
 
 class MyOtherClass implements MyInterface {
+    name: "packages wrapper";
     doSomething():string {
-        return "hello from the package wrapper!"
+        return `hello from the ${this.name}!`
     }
 } 
 
-instanceFromPackage2.doSomething()
+new ClassFromPackage1().doSomething()
 new ClassFromPackage2().doSomething()
 new MyOtherClass().doSomething()

@@ -7,24 +7,24 @@ typescript@^3.9.5:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.5.tgz#586f0dba300cde8be52dd1ac4f7e1009c1b13f36"
   integrity sha512-hSAifV3k+i6lEoCJ2k6R2Z/rp/H3+8sdmcn5NrS3/3kE7+RyZXm9aqvxWqjEXHAd8b0pShatpcdMTvEdvAJltQ==
 
-typings-package1-issue@0.1.10:
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/typings-package1-issue/-/typings-package1-issue-0.1.10.tgz#6d26e2afd6699ccf2b58b1078f3f2a39fff68ecc"
-  integrity sha512-f+ggrBU15NRv1OvvXFBuk/o+0L/gTB2upZor2DNQr8UIkMDKq3/G0aJaHue8/PKUgYnCXrV8fKweFImuEhrx8A==
+typings-package1-issue@0.1.13:
+  version "0.1.13"
+  resolved "https://registry.yarnpkg.com/typings-package1-issue/-/typings-package1-issue-0.1.13.tgz#434882294e0940b7e9f6f307b9e3e051f93707cd"
+  integrity sha512-lAj5EBoc3i71ZfKO+AnJu+YsiJB6JRFLMg+cGpoE/4ZjxQmZUubNHRj+lX9P0HfQUJXr9I97QVr2D/HxtCeOkA==
   dependencies:
     typescript "^3.9.5"
 
-typings-package1-issue@^0.1.11:
-  version "0.1.11"
-  resolved "https://registry.yarnpkg.com/typings-package1-issue/-/typings-package1-issue-0.1.11.tgz#3a82b5fa3d496e5917d3c57c25b7e1adb19df43a"
-  integrity sha512-o5SFAz6+XUJ+oMvVN6K3q4EnqImL/1kuTDt4Jj29d+uPhNypLgOUYxcIm1AdnIdWKPBRt1kvy/IL1CjSvmxhPw==
+typings-package1-issue@^0.1.20:
+  version "0.1.20"
+  resolved "https://registry.yarnpkg.com/typings-package1-issue/-/typings-package1-issue-0.1.20.tgz#d70b510a369a6028dc504921827156631a5a69a1"
+  integrity sha512-7+SkoejsuRdWJnbEhfSwQcpxZYAS9aiM80USMDoGlb/4d/4Z0sL1oERlgwb1tTNd8CSqE2PgUTXTEQy6p2TnMA==
   dependencies:
     typescript "^3.9.5"
 
-typings-package2-issue@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/typings-package2-issue/-/typings-package2-issue-0.1.3.tgz#7ff39a3321bd00320e8ee078ea3e12cc387ec8ac"
-  integrity sha512-QQyhnLE1juceiKhLFzXL7bwR9d26Sr4KFl6BHuTG/VIRalyUaFzPv02nElm3+C8uVUSbSuNeBNLA1eG2x8I5lg==
+typings-package2-issue@^0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/typings-package2-issue/-/typings-package2-issue-0.1.4.tgz#1928c7276c310f9dd592f4d845668e6540d638d5"
+  integrity sha512-4BqJdORRlDGgGSfYgIldkQXDjIW/4wXhYr4LHk/FlcSMbgyg10Sv9/Gb8TZ/qPJbAA72PS6W8iDHhFKVx/zDKg==
   dependencies:
     typescript "^3.9.5"
-    typings-package1-issue "0.1.10"
+    typings-package1-issue "0.1.13"
